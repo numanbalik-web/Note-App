@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+     <link rel="stylesheet" href="style.css" />
+
+ <link
+      href="https://cdn.boxicons.com/fonts/basic/boxicons.min.css"
+      rel="stylesheet"
+    />
+
+</head>
+<body>
+    
+   <section class="wrapper">
+     
+      <div class="add-box">
+       
+        <div class="icon">
+          <i class="bx bx-plus"></i>
+        </div>
+     
+        <p>Add new note</p>
+      </div>
+
+      
+      <div class="note">
+       
+        <div class="details">
+          <h2>Note Title</h2>
+          <p>Note Description</p>
+        </div>
+
+     
+        <div class="bottom">
+          
+          <p>Note Date</p>
+
+         
+          <div class="settings">
+         
+            <i class="bx bx-dots-horizontal-rounded"></i>
+
+        
+            <ul class="menu">
+              <li class="edit-icon"><i class="bx bx-edit"></i> Edit</li>
+              <li class="delete-icon">
+                <i class="bx bx-trash"></i>
+                Delete
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+    </section>
+
+    
+    <div class="popup-box">
+      <div class="popup">
+      
+        <header>
+          
+          <h1 id="popup-title">New Note</h1>
+
+          
+          <i class="bx bx-x"></i>
+        </header>
+
+        <form>
+         
+          <div class="fields">
+            <label for="title">Title</label>
+            <input type="text" id="title" />
+          </div>
+         
+          <div class="fields">
+            <label for="description">Description</label>
+            <textarea id="description"></textarea>
+          </div>
+
+         
+          <button id="form-btn">Add</button>
+        </form>
+      </div>
+    </div>
+    
+    <script src="./main.js"></script>
+
+
+</body>
+</html>
