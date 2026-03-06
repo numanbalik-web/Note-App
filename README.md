@@ -66,22 +66,7 @@ Bu projeyi geliştirirken aşağıdaki konularda önemli deneyim kazanıldı:
 - 🔍 **Array Methods** — `findIndex`, `forEach`, `filter` gibi fonksiyonların kullanımı
 - 🎨 **CSS ile UI Tasarımı** — Popup, kart ve menü bileşenleri
 
------
 
-## ⚙️ Kurulum & Kullanım
-
-```bash
-# Repoyu klonla
-git clone https://github.com/numanbalik72-web/Note-App.git
-
-# Proje klasörüne gir
-cd Note-App
-
-# index.html dosyasını tarayıcıda aç
-# (VS Code kullanıyorsan Live Server ile başlat)
-```
-
-> Herhangi bir kurulum gerektirmez. Doğrudan tarayıcıda çalışır! 🎉
 
 -----
 
@@ -96,8 +81,8 @@ Bu projeyi geliştirmem sürecinde ilham ve destek aldığım **[https://github.
 Her türlü geri bildirim ve iş birliği için ulaşabilirsin:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numanbalik72-web)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/numan-balik-sverige)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: numanbalik72@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/numan-balik-sverige)
+![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (mailto: numanbalik72@gmail.com)
 
 -----
 
